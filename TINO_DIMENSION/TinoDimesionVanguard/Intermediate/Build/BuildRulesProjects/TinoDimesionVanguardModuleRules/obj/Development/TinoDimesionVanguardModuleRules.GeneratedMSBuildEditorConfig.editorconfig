@@ -16,6 +16,6 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TinoDimesionVanguardModuleRules
-build_property.ProjectDir = D:\TINO_DIMENSION\TinoDimesionVanguard\Intermediate\Build\BuildRulesProjects\TinoDimesionVanguardModuleRules\
+build_property.ProjectDir = D:\TINO-dimension-vanguard\TINO_DIMENSION\TinoDimesionVanguard\Intermediate\Build\BuildRulesProjects\TinoDimesionVanguardModuleRules\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

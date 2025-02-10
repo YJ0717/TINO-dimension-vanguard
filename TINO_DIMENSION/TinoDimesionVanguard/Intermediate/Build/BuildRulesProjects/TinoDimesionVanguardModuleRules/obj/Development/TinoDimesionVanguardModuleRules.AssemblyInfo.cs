@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TinoDimesionVanguardModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eeaf366b1749ee8d47bc2e025d2eb63103aebe0b")]
 [assembly: System.Reflection.AssemblyProductAttribute("TinoDimesionVanguardModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TinoDimesionVanguardModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
